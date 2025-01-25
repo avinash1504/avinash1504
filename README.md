@@ -48,7 +48,7 @@ Throughout my career and academic journey, I've developed a solid foundation in 
 ### 📈 Education  
 **Master of Science in Computer Science**  
 *Pace University | New York, NY | Dec 2024*  
-*GPA: 3.83*
+*GPA: 3.86*
 
 **Bachelor of Technology in Electronics and Communication Engineering**  
 *K.S.R.M. College of Engineering | Andhra Pradesh, India | July 2021*
