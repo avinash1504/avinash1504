@@ -1,7 +1,7 @@
 # Hi All 👋  
 **Avinash Bhavancheekar**  
 
-[LinkedIn](https://www.linkedin.com/in/avinash-bhavancheekar) | [GitHub](https://github.com/avinash1504) | [Email](mailto:avinashbhavancheekar@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/avinash-bhavancheekar) | [GitHub](https://github.com/avinash1504) | [Email](mailto:avinashbhavancheekar29@gmail.com)  
 
 I am looking for Software Engineer roles with a passion for building efficient and scalable applications, currently advancing my expertise through a Master of Science in Computer Science at Pace University. I’m on track to graduate in December 2024 with a GPA of 3.83.
 
