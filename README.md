@@ -10,13 +10,13 @@ Throughout my career and academic journey, I've developed a solid foundation in 
 ---
 
 ### 🌟 Technical Skills  
-- **Programming Languages:** Kotlin, Java, XML, Python  
-- **Web Technologies:** JavaScript, HTML, CSS, PHP, ReactJS, Spring Boot  
-- **Visualization Tools:** Tableau, Power BI  
+- **Programming Languages:** Java, Kotlin, JavaScript, Kotlin, Python
+- **Web Technologies:** JavaScript, HTML, CSS, PHP, ReactJS
+- **Backend & Messaging:** Apache Kafka, RESTful APIs, Spring Boot
 - **Database Management:** SQL, NoSQL, Firebase, Room  
-- **Software / Tools:** Android Studio, Git, Xero, Jira, Jenkins, Logcat , MATLAB
-- **Operating Systems:** Windows, Linux  
-- **Additional Skills:** RESTful API Design, Security & Compliance Protocols, Performance Optimization  
+- **Software / Tools:** Android Studio, Git, Xero, Jira, Jenkins
+- **Operating Systems:** Windows, Linux
+- **Testing Frameworks:** Cypress, Selenium
 
 ---
 
