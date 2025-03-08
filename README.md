@@ -10,7 +10,7 @@ Throughout my career and academic journey, I've developed a solid foundation in 
 ---
 
 ### 🌟 Technical Skills  
-- **Programming Languages:** Java, Kotlin, JavaScript, Kotlin, Python
+- **Programming Languages:** Java, Kotlin, Python
 - **Web Technologies:** JavaScript, HTML, CSS, PHP, ReactJS
 - **Backend & Messaging:** Apache Kafka, RESTful APIs, Spring Boot
 - **Database Management:** SQL, NoSQL, Firebase, Room  
